@@ -16,6 +16,10 @@ import java.util.List;
 import java.util.Properties;
 
 public class MailUtil {
+    /**
+     * Reads data from mail.config file and creates Properties Object
+     * @return Properties Object of mail host configuration
+     */
     private static Properties getMailHostProperties() {
 
         Properties mailProperties = new FileReader().getConfig("mail.config");
@@ -39,6 +43,10 @@ public class MailUtil {
         return secrets;
     }
 
+    /**
+     * Reads pass.config file with password and username and craates aession
+     * @return
+     */
     private static Session getSession() {
         Properties props = getMailHostProperties();
         Properties secrets = getSecrets("secret/pass.config");

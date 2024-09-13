@@ -21,6 +21,13 @@ public class Bewerber {
     public double spass;
     public double geileProjekte;
 
+    /**
+     * Creates instance of Bewerber
+     * @param searchJob boolean - better be true
+     * @param java booelan - does Applicant have Java Skills
+     * @param angular booelan - does Applicant have Angular Skills
+     * @param android booelan - does Applicant have Android Skills
+     */
     public Bewerber (boolean searchJob, boolean java, boolean angular, boolean android) {
         this.searchJob = searchJob;
         this.java = java;

@@ -1,10 +1,10 @@
 {
   "from": "michel.holzky@gmail.com",
   "subject": "03 Challenge accepted. Meine Bewerbung auf euer Plakat",
-  "message": "Hallo liebes LYTH-Team,<br />ich war diese Woche in Mainz und habe dort im Bus 74 euere Stellenausschreibung gesehen.<br />Die hat mich direkt angesprochen. Deshalb habe ich mich hingesetzt und die Klasse auf dem Plakat direkt mal in einem Mini-Projekt umgesetzt.<br /><br />Diese Mail hier ist von der Anwendung in meinem NerdsWanted Projekt selbst verschickt worden.<br /><br />Den Code dazu findet ihr hier in dem folgenden Repo: <a href='www.duckduckgo.com'>Link</a><br /><br />Meine Bewerbung und mein Lebenslauf hängen der Mail an.<br /><br />Viele Grüße aus dem Rheinland<br />Michel Holzky",
+  "message": "Hallo liebes LYTH-Team,<br />ich war diese Woche in Mainz und habe dort im Bus 74 euere Stellenausschreibung gesehen.<br />Die hat mich direkt angesprochen. Deshalb habe ich mich hingesetzt und die Klasse auf dem Plakat direkt mal in einem Mini-Projekt umgesetzt.<br /><br />Diese Mail hier ist von der Anwendung in meinem NerdsWanted Projekt selbst verschickt worden.<br /><br />Den Code dazu findet ihr hier in dem folgenden Repo: <a href='https://github.com/fromDisco/NerdsWanted'>https://github.com/fromDisco/NerdsWanted</a><br />Mein LinkedIn-Profil findet ihr hier: <a href='https://www.linkedin.com/in/michel-holzky-670706143/'>https://www.linkedin.com/in/michel-holzky-670706143/</a><br /><br />Meine Bewerbung und mein Lebenslauf hängen der Mail an.<br /><br />Viele Grüße aus dem Rheinland<br />Michel Holzky",
   "filePath": [
-              "files/Bewerbung_Holzky.pdf",
-              "files/Befehlsuebersicht+vim.pdf"
+              "files/Bewerbung_Holzky_LYTH.pdf",
+              "files/CV_Holzky_2024.pdf"
               ],
   "mailTo": "doc.snuggles@web.de"
 }
